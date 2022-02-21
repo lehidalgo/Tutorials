@@ -1,4 +1,4 @@
-# Working with [Tensorflow 2](https://www.tensorflow.org/install?hl=es-419) | Anaconda | Jupyter Notebook | NVIDIA GeForce RTX2070## 
+# Working with [Tensorflow 2](https://www.tensorflow.org/install?hl=es-419) | Anaconda | Jupyter Notebook | NVIDIA GeForce RTX2070
 ## Problem Description:
 - After creating the anaconda environment I install tensorflow.
 - Then, I try to install ipykernel and jupyter. In this step, these libraries are not installed due to conflicts between packages distributions.
