@@ -1,5 +1,5 @@
 # Markdown Tutorial
-**By:** [*Leandro Hidalgo*](www.linkedin.com/in/leandro-alexis-hidalgo-torres)
+**By:** [*Leandro Hidalgo*](https://www.linkedin.com/in/leandro-alexis-hidalgo-torres)
 
 # Headings (this is a heading 1)
 ## heading 2
