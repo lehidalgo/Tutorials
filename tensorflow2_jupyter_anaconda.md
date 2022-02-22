@@ -9,6 +9,7 @@
 1. **System Preparation - NVIDIA Driver Update and checking your PATH variable:**
   - [x] Check your NVIDIA Driver
   - [x] Check your PATH environment variable. See this [guide](https://www.tensorflow.org/install/gpu#pip_package).
+  - [x] BE SURE you follow this [guide](https://docs.nvidia.com/deeplearning/cudnn/install-guide/index.html#install-windows).
 
 
 2. **Python Environment Setup with Anaconda Python.**
