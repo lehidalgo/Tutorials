@@ -23,9 +23,16 @@
     ```
     
 3. **Create a Python "virtual environment" for TensorFlow using pip.**
-  - [x] Follow this [tutorial](https://python.land/virtual-environments/virtualenv) about "create, activate and delete python virtual environment"
+    - [x] `$ python -m myenv [directory]`
+    - [x] Follow this [tutorial](https://python.land/virtual-environments/virtualenv) about "create, activate and delete python virtual environment"
 
-4. Simple check to see that TensorFlow is working with your GPU
+4. **Activate the already created "virtual environment"**
+    - [x] `myenv\Scripts\activate.bat`
+    
+5. **Install Tensorflow**
+    - [x] `pip install --upgrade tensorflow`
+
+5. Simple check to see that TensorFlow is working with your GPU
   - [x] Open `python` in the command prompt and write the code below. This will show the model of your GPU and the version of `tensorflow`
 ```
 import tensorflow as tf
